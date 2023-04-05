@@ -1,0 +1,98 @@
+Intodrução
+
+ 
+
+Capítulo 1 - História do computador
+- Pré
+-1ª Geração
+-2ª Geração
+-3ª Geração
+-4ª Geração
+
+
+
+
+
+Geração Zero (??? - 1940)
+A geração zero de computadores, também conhecida como computadores mecânicos, foi desenvolvida antes da era eletrônica e era composta principalmente por dispositivos mecânicos, como o Ábaco, a Máquina Analítica de Charles Babbage e o Tabulador de Herman Hollerith. Esses dispositivos foram usados para realizar cálculos matemáticos e para processar e armazenar informações. A geração zero de computadores foi essencial para o desenvolvimento da era eletrônica e da computação moderna.
+
+Referências:
+
+https://ufsj.edu.br/portal2-repositorio/File/prof_ngoulart/notas_aula/AEDS1/A_historia_do_computador.pdf
+http://www.ic.uff.br/~aconci/evolucao.html
+Ceruzzi, P. E. (2003). A history of modern computing. MIT Press.
+Campbell-Kelly, M., & Aspray, W. (1996). Computer: A history of the information machine. Basic Books.
+
+Primeira geração (década de 1940-1950)
+A primeira geração de computadores eletrônicos foi marcada pelo uso de válvulas para a realização de operações lógicas e aritméticas. O ENIAC (Electronic Numerical Integrator and Computer), criado em 1946, foi o primeiro computador eletrônico de grande escala e pesava cerca de 30 toneladas. Outros computadores notáveis desta geração incluem o UNIVAC I (Universal Automatic Computer I) e o IBM 701.
+Referências:
+
+https://ufsj.edu.br/portal2-repositorio/File/prof_ngoulart/notas_aula/AEDS1/A_historia_do_computador.pdf
+http://www.ic.uff.br/~aconci/evolucao.html
+Ceruzzi, P. E. (2003). A history of modern computing. MIT Press.
+Campbell-Kelly, M., & Aspray, W. (1996). Computer: A history of the information machine. Basic Books.
+
+Segunda geração (década de 1950-1960)
+A segunda geração de computadores foi caracterizada pela substituição das válvulas por transistores, o que tornou os computadores mais rápidos, menores e mais confiáveis. Os computadores desta geração ainda eram grandes e caros, mas eram capazes de processar mais dados do que seus predecessores. O IBM 1401, lançado em 1959, foi um dos primeiros computadores a utilizar transistores. Outros computadores notáveis desta geração incluem o IBM 7090 e o DEC PDP-1 (Programmed Data Processor-1).
+Referências:
+
+https://ufsj.edu.br/portal2-repositorio/File/prof_ngoulart/notas_aula/AEDS1/A_historia_do_computador.pdf
+http://www.ic.uff.br/~aconci/evolucao.html
+Campbell-Kelly, M., & Aspray, W. (1996). Computer: A history of the information machine. Basic Books.
+Ceruzzi, P. E. (2003). A history of modern computing. MIT Press.
+
+Terceira geração (década de 1960-1970)
+A terceira geração de computadores foi marcada pelo uso de circuitos integrados, que consistem em vários transistores em um único chip de silício. Os computadores desta geração eram menores, mais rápidos e mais confiáveis do que seus predecessores. O IBM System/360, lançado em 1964, foi um dos primeiros computadores a utilizar circuitos integrados. Outros computadores notáveis desta geração incluem o DEC PDP-8 e o CDC 6600.
+Referências:
+
+https://ufsj.edu.br/portal2-repositorio/File/prof_ngoulart/notas_aula/AEDS1/A_historia_do_computador.pdf
+http://www.ic.uff.br/~aconci/evolucao.html
+Ceruzzi, P. E. (2003). A history of modern computing. MIT Press.
+Campbell-Kelly, M., & Aspray, W. (1996). Computer: A history of the information machine. Basic Books.
+
+Quarta geração (década de 1970-1980)
+A quarta geração de computadores foi marcada pelo surgimento dos computadores pessoais, que se tornaram acessíveis ao público em geral. A Apple Computer lançou o Apple II em 1977, enquanto a IBM lançou o IBM PC em 1981. Outros computadores notáveis desta geração incluem o Commodore 64 e o Atari 800.
+Referências:
+
+https://ufsj.edu.br/portal2-repositorio/File/prof_ngoulart/notas_aula/AEDS1/A_historia_do_computador.pdf
+http://www.ic.uff.br/~aconci/evolucao.html
+Ceruzzi, P. E. (2003). A history of modern computing. MIT Press.
+Campbell-Kelly, M., & Aspray, W. (1996). Computer: A history of the information machine. Basic Books.
+
+
+
+
+
+Capítulo 2 - Montagem de Computadores
+-Definições 
+-Componentes
+-Configurações: Báscia, intermediário e High-End
+
+
+
+Montar um computador desktop pode parecer intimidante à primeira vista, mas pode ser uma tarefa simples e gratificante para quem deseja construir sua própria máquina personalizada. Os computadores desktop são compostos por vários componentes, cada um com uma função específica. Aqui estão algumas das definições dos componentes mais comuns:
+
+Placa-mãe: é a peça central do computador, responsável por conectar todos os componentes juntos e permitir que eles se comuniquem entre si. A placa-mãe também possui slots para a instalação de outros componentes, como processador, memória RAM e placas de vídeo.
+Processador: é o "cérebro" do computador, responsável por executar as tarefas e processar os dados. O processador possui um número de núcleos, que determina quantas tarefas ele pode executar simultaneamente, e uma velocidade de clock, medida em GHz, que determina a rapidez com que ele pode processar os dados.
+Memória RAM: é a memória temporária do computador, usada para armazenar temporariamente os dados que estão sendo usados pelo processador. Quanto mais RAM um computador tem, mais rápido ele pode executar tarefas complexas.
+Armazenamento: existem dois tipos principais de armazenamento: o disco rígido (HDD) e o disco de estado sólido (SSD). O HDD é um dispositivo de armazenamento magnético que usa discos giratórios para armazenar dados, enquanto o SSD é uma unidade de armazenamento sem partes móveis que usa memória flash para armazenar dados. O SSD é mais rápido e confiável do que o HDD, mas é geralmente mais caro por gigabyte.
+Placa de vídeo: é o componente responsável por processar e exibir as imagens na tela. As placas de vídeo dedicadas são usadas para jogos e outras tarefas gráficas intensivas, enquanto as placas de vídeo integradas são incorporadas à placa-mãe e são suficientes para tarefas de uso geral.
+Fonte de alimentação: é a fonte de energia que fornece eletricidade aos componentes do computador. A fonte de alimentação deve ter uma potência suficiente para alimentar todos os componentes do computador, além de ser eficiente e confiável.
+Referências:
+
+"How to Build a PC" (PCMag) - https://www.pcmag.com/news/how-to-build-your-own-pc
+"Building a PC" (Tom's Hardware) - https://www.tomshardware.com/how-to/build-a-pc
+"The Basics of Building a PC" (Lifehacker) - https://lifehacker.com/s/pcbuild
+"PC Building Guide" (Newegg) - https://www.newegg.com/insider/building-a-gaming-pc-for-the-first-time-dont-panic-this-guide-can-help-you-out/
+
+Processador: AMD Ryzen 3 2200G (R$ 705,00)
+Placa-mãe: ASRock A320M-HDV (R$ 427,00)
+Memória RAM: Kingston HyperX Fury 8GB DDR4 2400MHz (R$ 295,00)
+Armazenamento: Kingston A400 240GB SATA SSD (R$ 329,00)
+Fonte de alimentação: EVGA 450W 80+ (R$ 350,00)
+Gabinete: Aerocool Cylon (R$ 155,00)
+Total: R$ 2.261,00 (preços consultados em março de 2023)
+
+Essa configuração é adequada para tarefas básicas de escritório, como navegação na web, gerenciamento de e-mails e documentos, edição de texto e planilhas simples. O processador AMD Ryzen 3 2200G possui gráficos integrados, permitindo economizar em uma placa de vídeo dedicada. A placa-mãe ASRock A320M-HDV é uma opção econômica e confiável para acomodar o processador e oferece suporte para expansão de memória e armazenamento. A memória RAM Kingston HyperX Fury de 8GB oferece boa execução do sistema operacional e aplicativos básicos. O armazenamento Kingston A400 de 240GB SATA SSD é suficiente para o armazenamento de documentos e arquivos básicos. A fonte de alimentação EVGA 450W 80+ é eficiente e confiável, capaz de alimentar todos os componentes do sistema. O gabinete Aerocool Cylon oferece uma boa ventilação e fácil acesso aos componentes internos.
+
+
